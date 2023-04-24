@@ -1,14 +1,14 @@
-.pink {
+h3:first-child {
   color: pink;
 }
 
-.red {
+p:first-child {
   color: red;
 }
 #greycol {
   color: grey;
 }
-.green {
+p:nth-child(7) {
   color: green;
 }
 .yellow {
